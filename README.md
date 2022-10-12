@@ -1,1 +1,1 @@
-## Broken Link Hijacking 
+## Common Vulnerabilities
