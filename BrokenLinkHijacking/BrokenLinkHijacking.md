@@ -1,8 +1,8 @@
-## Broken Link Hijacking
+# Broken Link Hijacking
 
 <img alt="Image" src="./image.png">
 
-**Summary**
+## Summary
 
 Broken Link Hijacking (BLH) is a web-based attack where it exploits external links that are no longer valid. The attackers take over this expired, stale, and invalid external links on credible websites or web applications for malicious or fraudulent purposes.
 
@@ -12,7 +12,7 @@ If an attacker purchases the domain used by the link shortening service that wen
 
 Broken Link Hijacking is a P4 bug (Low Risk)
 
-**How to Find**
+## How to Find
 
 1. Manually, Find and click external links on the target site ( For Example:- Some Links to Social Media Accounts or Some external Media Link)
 
@@ -31,4 +31,3 @@ Broken Link Hijacking is a P4 bug (Low Risk)
  1. Go to [Online Broken Link Checker](https://ahrefs.com/broken-link-checker), [Dead Link Checker](https://www.deadlinkchecker.com/) Or [Alternative Online Broken Link Checker](https://brokenlinkcheck.com/)
  2. Input the domain name
 
- 
